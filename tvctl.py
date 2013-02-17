@@ -1,4 +1,4 @@
-mport serial
+import serial
 
 class NEC:
   def __init__(self,tty=0):
